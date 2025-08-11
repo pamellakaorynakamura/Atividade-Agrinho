@@ -1,0 +1,88 @@
+body {
+   fonte-family: Arial, sans-serif;
+   font-size: 20 px;
+   margin: 60;
+   pedding: 0;
+   background-color: rgba(11, 68, 8, 0.847);
+}
+
+
+header {
+
+
+  
+   background-color: #1d7211ce;
+   color: rgb(231, 231, 231);
+   text-align: center;
+   peding: 50px;
+}
+
+
+main {
+   width: 80%;
+   margin: 20px auto;
+   pedding: 20px;
+   box-shadow: 0px 0px 10px rgba (0,0,0,0,1);
+}
+#img1{
+   max-width: 35%;
+   border-radius: 10px;/*arredonda as bordas*/
+   display: block;
+   margin: 0px auto;/* imagem para esquerda*/
+   padding-left: 20px;
+}
+p{fonte-family: Arial, sans-serif;
+font-size: 25px;
+
+
+}
+#img2 {
+   max-width: 25%;
+   border-radius: 10px;/*arredonda as bordas*/
+   display: inline-block;
+   margin: 0px auto;/* imagem para esquerda*/
+   padding-left: 20px;
+}
+
+
+#img3 {
+   max-width: 35%;
+   border-radius: 10px;/*arredonda as bordas*/
+   display: inline-block;
+   margin: 0px auto;/* imagem para direita*/
+   padding-left: 20px;
+}
+
+
+
+
+
+
+body {
+   fonte-family: Arial, sans-serif;
+   margin: 0;
+   pedding: 0;
+   background-color: rgba(32, 95, 29, 0.847);
+}
+
+
+header {
+   background-color: #2e9121ce;
+   color: rgb(231, 231, 231);
+   text-align: center;
+   peding: 40px;
+}
+
+
+main {
+   width: 80%;
+   margin: 20px auto;
+   pedding: 40px;
+   box-shadow: 0px 0px 10px rgba (0,0,0,0,1);
+}
+img{
+   max-width: 100%;
+   border-radius: 10px;/*arredonda as bordas*/
+   display: block;
+   margin: 10px auto;/* centraliza a imagem*/
+}
